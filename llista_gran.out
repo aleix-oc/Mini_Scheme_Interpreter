@@ -1,0 +1,15 @@
+Primer element de la llista: 
+1
+
+Cua de la llista: 
+[46, 3, 7, 9, 0, 2]
+
+Suma de elements de la llista: 
+68
+
+Elevar llista al quadrat:
+[1, 2116, 9, 49, 81, 0, 4]
+
+Zipeja amb una altra llista:
+[1, '"hola"', 46, 3, 3, 4, 7, True, 9, '"adeu"']
+
